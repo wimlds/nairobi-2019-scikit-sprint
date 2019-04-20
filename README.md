@@ -41,7 +41,7 @@ CoC summary is adopted from [NumFOCUS](https://numfocus.org/code-of-conduct).
 * [Lawrence Muthoga](https://www.linkedin.com/in/lgithaiga/), Community Manager, Microsoft 4Afrika
 
 ### Scikit-learn Host
-* [Adrin Jalali](hhttps://www.linkedin.com/in/adrinjalali/a)
+* [Adrin Jalali](https://www.linkedin.com/in/adrinjalali/a)
 
 ### Teaching Assistants
 * [ ] ()
