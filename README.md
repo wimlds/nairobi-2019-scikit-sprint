@@ -121,17 +121,18 @@ Please feel free to take photos and tweet about the event.
 
 - WiMLDS Nairobi:  [WiMLDS_Nairobi](https://twitter.com/WiMLDS_Nairobi)
 
-- WiMLDS:  [@wimlds](https://twitter.com/wimlds)
-
 - iHub: [@iHub](https://twitter.com/iHub)
+
+- Microsoft 4Afrika:  [@4Afrika](https://twitter.com/4Afrika)
+
+
 
 ### Hashtags
 
-- #ScikitSprint
-- #wimlds
-- #opensource
 - #scikit
+- #opensource
 - #python
+- #wimlds
 
 ### People
 
