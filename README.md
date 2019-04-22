@@ -12,7 +12,7 @@
 
 # WiMLDS Nairobi / Scikit-learn Sprint  
 
-## Schedule
+## Schedule for 22-Jun-2019
 - 9:30 am - 10 am: Arrive early for technical support
 - 10 am - 1 pm: Sprint
 - 1 pm - 2 pm: Lunch will be provided
