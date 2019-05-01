@@ -13,10 +13,10 @@
 # WiMLDS Nairobi / Scikit-learn Sprint  
 
 ## Schedule for 22-Jun-2019
-- 9:30 am - 10 am: Arrive early for technical support
-- 10 am - 1 pm: Sprint
-- 1 pm - 2 pm: Lunch will be provided
-- 2 pm - 5 pm: Sprint
+- 8:30am - 9:30am: Breakfast and technical support
+- 9:30am - 1:00pm: Sprint
+- 1:00pm - 2:00pm: Lunch
+- 2:00pm - 5:00pm: Sprint
 
 ----
 ## Code of Conduct
@@ -32,7 +32,7 @@ CoC summary is adopted from [NumFOCUS](https://numfocus.org/code-of-conduct).
 ## The Team
 
 ### Sponsors  
-* Space sponsored by: [iHub](https://ihub.co.ke)
+* Space sponsored by: TBA
 * Food sponsored by:  [Microsoft](https://www.microsoft.com/africa/4afrika/about-us.aspx)
 
 ### Organizing Team
