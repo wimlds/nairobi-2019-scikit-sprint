@@ -96,7 +96,7 @@ Join the scikit-learn Gitter community
 * Go through the issues (with the above labels) and become familiar with them
 
 ### 5.  Curated List of Issues
-- https://docs.google.com/document/d/1dgEPcGnbfs6DRs7qtZMkbF6mLP6cywfn46rMFGRmTQg/edit?usp=sharing
+- https://github.com/WiMLDS/nairobi-2019-scikit-sprint/projects/1
 
 ---
 
