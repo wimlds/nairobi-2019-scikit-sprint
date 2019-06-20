@@ -48,6 +48,7 @@ CoC summary is adopted from [NumFOCUS](https://numfocus.org/code-of-conduct).
 * [Kathleen Siminyu](https://www.linkedin.com/in/kathleen-siminyu-7356b810/?originalSubdomain=ke)
 * [Isaac Mutie](https://www.linkedin.com/in/isaac-mutie-113833147/)
 * [Ben Mainye](https://www.linkedin.com/in/kathleen-siminyu-7356b810/?originalSubdomain=ke)
+* [Caleb Muoki](https://www.linkedin.com/in/muokicaleb/)
 
 ---
 
@@ -145,6 +146,8 @@ Please feel free to take photos and tweet about the event you can tag us on @WiM
 - Cate Gitau: [@categitau](https://twitter.com/categitau_)
 
 - Kathleen S: [@siminyu_kat](https://twitter.com/siminyu_kat)
+
+- Caleb Muoki: [@@Muoki_Caleb](https://twitter.com/Muoki_Caleb)
 
 
 
