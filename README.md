@@ -44,10 +44,10 @@ CoC summary is adopted from [NumFOCUS](https://numfocus.org/code-of-conduct).
 * [Adrin Jalali](https://www.linkedin.com/in/adrinjalali/a)
 
 ### Teaching Assistants
-* [Catherine Gitau] (https://www.linkedin.com/in/cate-gitau/)
-* [Kathleen Siminyu] (https://www.linkedin.com/in/kathleen-siminyu-7356b810/?originalSubdomain=ke)
-* [Isaac Mutie] (https://www.linkedin.com/in/isaac-mutie-113833147/)
-* [Ben Mainye] (https://www.linkedin.com/in/kathleen-siminyu-7356b810/?originalSubdomain=ke)
+* [Catherine Gitau](https://www.linkedin.com/in/cate-gitau/)
+* [Kathleen Siminyu](https://www.linkedin.com/in/kathleen-siminyu-7356b810/?originalSubdomain=ke)
+* [Isaac Mutie](https://www.linkedin.com/in/isaac-mutie-113833147/)
+* [Ben Mainye](https://www.linkedin.com/in/kathleen-siminyu-7356b810/?originalSubdomain=ke)
 
 ---
 
