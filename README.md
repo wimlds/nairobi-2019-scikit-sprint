@@ -32,7 +32,7 @@ CoC summary is adopted from [NumFOCUS](https://numfocus.org/code-of-conduct).
 ## The Team
 
 ### Sponsors  
-* Space sponsored by: TBA
+* Space sponsored by: iHub
 * Food sponsored by:  [Microsoft](https://www.microsoft.com/africa/4afrika/about-us.aspx)
 
 ### Organizing Team
@@ -44,12 +44,10 @@ CoC summary is adopted from [NumFOCUS](https://numfocus.org/code-of-conduct).
 * [Adrin Jalali](https://www.linkedin.com/in/adrinjalali/a)
 
 ### Teaching Assistants
-* [ ] ()
-* [ ] ()
-
-### Helpers
-* [ ] ()
-* [ ] ()
+* [Catherine Gitau] (https://www.linkedin.com/in/cate-gitau/)
+* [Kathleen Siminyu] (https://www.linkedin.com/in/kathleen-siminyu-7356b810/?originalSubdomain=ke)
+* [Isaac Mutie] (https://www.linkedin.com/in/isaac-mutie-113833147/)
+* [Ben Mainye] (https://www.linkedin.com/in/kathleen-siminyu-7356b810/?originalSubdomain=ke)
 
 ---
 
@@ -109,13 +107,13 @@ Bring your laptop and charger.
 We will have stick-on nametags.  Make sure to wear one to network with other attendees.  Feel free to add your preferred pronoun and institution affiliation.
 
 ### 3.  Taking Notes for Blog
-If you would like to blog about the event, email me (reshama@wimlds.org) and I would be happy to share and promote the blog with our community.
+If you would like to blog about the event, email me (mariamhaji01@gmail.com) and I would be happy to share and promote the blog with our community.
 
 ---
 
 ## Twitter
 
-Please feel free to take photos and tweet about the event.
+Please feel free to take photos and tweet about the event you can tag us on @WiMLDS_Nairobi
 
 ### Groups
 
@@ -144,11 +142,9 @@ Please feel free to take photos and tweet about the event.
 
 - Lawrence Muthoga: [@larrygify](https://twitter.com/larrygify)
 
-- xxx: [@ ]( )
+- Cate Gitau: [@categitau](https://twitter.com/categitau_)
 
-- xxx: [@ ]( )
-
-- xxx: [@ ]( )
+- Kathleen S: [@siminyu_kat](https://twitter.com/siminyu_kat)
 
 
 
