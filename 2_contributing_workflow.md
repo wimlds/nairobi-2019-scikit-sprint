@@ -1,7 +1,7 @@
 # Crash Course in Contributing to Scikit-learn:  Workflow
 
 PR = Pull Request  
-**Important Note:**  Please include **(#wimlds)** in your PR commit message so we can track them. 
+**Important Note:**  Please include **(#wimlds)** in your PR description so we can track them. 
 
 ---
 
