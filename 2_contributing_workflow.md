@@ -5,6 +5,10 @@ PR = Pull Request
 
 ---
 
+It's best to follow the up-to-date instructions on the the
+[development guide](https://scikit-learn.org/dev/developers/contributing.html#ways-to-contribute),
+but here's also a set of hints which could be useful.
+
 ## PART A:  Set-up work environment
 
 #### Set up virtual environment
