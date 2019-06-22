@@ -15,9 +15,19 @@ but here's also a set of hints which could be useful.
 ```bash
 conda create -n sklearndev numpy scipy matplotlib pytest sphinx cython ipykernel
 ```
-#### Activate virtual environment:  
+#### Activate virtual environment:
+#### Windows
 ```bash
-source activate sklearndev
+activate sklearndev
+```
+or
+```bash
+activate.bat sklearndev
+```
+
+#### Installing development dependacies
+```sh
+pip install cython pytest flake8
 ```
 ---
 
